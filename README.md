@@ -1,10 +1,12 @@
 # Aeroplain-Seating
-Aeroplain Seating algorithm
-A program that helps seat audiences in a ﬂight based on the following input and rules.
-Rules for seating
--Always seat passengers star:ng from the front row to back, star:ng from the le= to the right
-*Fill aisle seats ﬁrst followed by window seats followed by center seats (any order in center seats)
+A program that helps seat audiences in a flight based on the following input and rules
+## Rules for Seating
+- Always seat passengers statring from the front row to back, starting from the left to right
+- Fill aisle seats first followed by the window seats followed by center seats (any order in center seats)
 
-Input to the program will be
-•	a 2D array that represents the rows and columns [ [3,4], [4,5], [2,3], [3,4] ]
-•	Number of passengers wai:ng in queue.
+**Input to the program will be like**
+
+- A **2D** array that represents the rows and columns **[[3,4],[4,5],[2,3][3,4]]**
+- Number of passengers in a queue
+
+![This is an image](https://github.com/Talha-Hassan/Aeroplain-Seating/blob/main/assets/item1a.png)

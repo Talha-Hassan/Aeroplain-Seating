@@ -9,4 +9,4 @@ A program that helps seat audiences in a flight based on the following input and
 - A **2D** array that represents the rows and columns **[[3,4],[4,5],[2,3][3,4]]**
 - Number of passengers in a queue
 
-![This is an image](https://github.com/Talha-Hassan/Aeroplain-Seating/blob/main/assets/item1a.png)
+![This is an image](https://github.com/Talha-Hassan/Aeroplain-Seating/blob/main/assets/a.JPG)

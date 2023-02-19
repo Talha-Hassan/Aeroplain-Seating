@@ -10,3 +10,5 @@ A program that helps seat audiences in a flight based on the following input and
 - Number of passengers in a queue
 
 ![This is an image](https://github.com/Talha-Hassan/Aeroplain-Seating/blob/main/assets/a.JPG)
+
+**If the number of passenger is ${\color{red}30}$ then the output would be like..**

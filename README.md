@@ -14,3 +14,7 @@ A program that helps seat audiences in a flight based on the following input and
 **If the number of passenger is ${\color{red}30}$ then the output would be like..**
 
 ![This is an image](https://github.com/Talha-Hassan/Aeroplain-Seating/blob/main/assets/b.JPG)
+
+## How to Run!
+- Two variable in **main.js** can be change **seats** and **No_Of_Passenger**
+- I tried **Recursion** in this case and getting the complexity of **N^2** if you have better solution feel free to contact me 
